@@ -1,65 +1,54 @@
-###
-# Page options, layouts, aliases and proxies
-###
+Time.zone = "Eastern Time (US & Canada)"
 
-# Per-page layout changes:
-#
-# With no layout
-page '/*.xml', layout: false
-page '/*.json', layout: false
-page '/*.txt', layout: false
+configure :development do
+  set :debug_assets, true
+  activate :livereload
+end
 
-# With alternative layout
-# page "/path/to/file.html", layout: :otherlayout
-
-# Proxy pages (http://middlemanapp.com/basics/dynamic-pages/)
-# proxy "/this-page-has-no-template.html", "/template-file.html", locals: {
-#  which_fake_page: "Rendering a fake page with a local variable" }
-
-###
-# Helpers
-###
+set :markdown_engine, :redcarpet
+set :markdown,
+  footnotes: true,
+  fenced_code_blocks: true
 
 activate :blog do |blog|
-  # This will add a prefix to all links, template references and source paths
-  blog.prefix = "posts"
-  # blog.permalink = "{year}/{month}/{day}/{title}.html"
-  # Matcher for blog source files
-  # blog.sources = "{year}-{month}-{day}-{title}.html"
-  # blog.taglink = "tags/{tag}.html"
-  # blog.layout = "layout"
-  # blog.summary_separator = /(READMORE)/
-  # blog.summary_length = 250
-  # blog.year_link = "{year}.html"
-  # blog.month_link = "{year}/{month}.html"
-  # blog.day_link = "{year}/{month}/{day}.html"
-  # blog.default_extension = ".markdown"
-  blog.tag_template = "tag.html"
-  blog.calendar_template = "calendar.html"
-  # Enable pagination
-  # blog.paginate = true
-  # blog.per_page = 10
-  # blog.page_link = "page/{num}"
+  "posts".tap do |blog_scope|
+    blog.prefix = blog_scope
+    blog.layout = blog_scope
+  end
+  # NOTE: engine bakes date into permalink by default; prefer title only
+  ':title'.tap do |format|
+    blog.sources = format
+    blog.permalink = format
+  end
 end
 
-page "/feed.xml", layout: false
-# Reload the browser automatically whenever files change
-# configure :development do
-#   activate :livereload
-# end
+activate :directory_indexes
+set :relative_links, true
 
-# Methods defined in the helpers block are available in templates
-# helpers do
-#   def some_helper
-#     "Helping"
-#   end
-# end
+activate :sprockets
+activate :inliner
 
-# Build-specific configuration
-configure :build do
-  # Minify CSS on build
-  # activate :minify_css
-
-  # Minify Javascript on build
-  # activate :minify_javascript
+helpers do
+  def without_year date
+    date.strftime('%b %e')
+  end
+  def with_year date
+    date.strftime('%b %e %Y')
+  end
+  def dynamic_year date
+    if Time.now.year == date.year
+      without_year date
+    else
+      with_year date
+    end
+  end
 end
+
+activate :deploy do |deploy|
+  deploy.deploy_method = :git
+  # NOTE: sane defaults
+  # deploy.remote   = # 'origin'
+  # deploy.branch   = # 'gh-pages'
+  # deploy.strategy = # :force_push
+end
+

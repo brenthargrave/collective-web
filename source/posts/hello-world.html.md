@@ -1,11 +1,12 @@
 ---
-title: Forming a Singular Collective
+title: Why do you freelance?
 date: 2017-01-30
+canonical_url:
+author:
+  name: Brent Hargrave
+  homepage: https://brent.is
+  twitter: brenthargrave
 ---
-
-# Forming a Singular Collective
-
-Why do you freelance?
 
 It affords you *time*.	
 Time to pursue your own mission.	
@@ -23,16 +24,16 @@ It's not ours. And if it's not yours either, come work with us. We're trying som
 
 We're a small group of creatives designing an unusual organization, one that retains the desirable aspects of the "agency model" (a respected shared brand, inspiring colleagues, a full pipeline of attractive projects) and jettisons the rest (forfeiting control over your time, work environment, and project choice to secure a salary).
 
-Our plan, in a nutshell:	
+Our plan, in a nutshell:
 
 1. Collaborate on shared practices and tools that, over time, will stabilize our freelance work. Lean on that stability to pursue our respective goals more effectively.
 1. In helping one another, attract a deeper bench of like-minded colleagues to work with. As the team is excellent, so is the work: mission-focused creatives do great work because, *by definition*, we care so deeply about results.[^us]
 1. The work attracts more, and more attractive, client engagements. Jon Lax put it best: "There is no magic to this business. If you do good work, you get good work."[^lax]
 
-
 If all this speaks to you, [say hello](mailto:everyone@singularcollective.co). We can't wait to discuss your ambitions, your skills and your availability.
 
-- the Singular Collective
+
+— the Singular Collective
 
 [^us]: Most of us have been through startup wringer at least once. And we use the broad term "creative" deliberately: we want members with skills of *any* stripe applicable to our work.
 
