@@ -8,13 +8,14 @@ author:
   twitter: brenthargrave
 ---
 
-It affords you *time*.	
-Time to pursue your own mission.	
+It affords you *time*.  
+Time to pursue your own mission.  
 Time, and the *integrity* to pursue that mission instead of committing years to someone else's.
 
 If you freelance independently, though, you're struggling to advance your cause. Ambitious projects grow on momentum, built atop *consistent* effort. Yet consistency is impossible when navigating the "feast or famine" of solo freelance work. Time that opens up between engagements is wasted if you put everything on hold when the next engagement begins.
 
-The solution is simple: distribute the work. ("Obviously," right?) So you start asking your talented friends to help out. But this also fails: you don't always know their availability, and certainly can't guarantee it. Consistency still eludes you.
+The solution is simple, right? *Distribute the work*. So you start asking your talented friends to help out. But this also fails: you don't always know their availability, and you certainly can't guarantee it.	
+Consistency still eludes you.
 
 At this point, you could do as so many have done before: hire people to guarantee their time. But you guarantee their salaries in exchange, and full-timers expect a career path. Congrats, you've just started an agency!
 
@@ -30,7 +31,7 @@ Our plan, in a nutshell:
 1. In helping one another, attract a deeper bench of like-minded colleagues to work with. As the team is excellent, so is the work: mission-focused creatives do great work because, *by definition*, we care so deeply about results.[^us]
 1. The work attracts more, and more attractive, client engagements. Jon Lax put it best: "There is no magic to this business. If you do good work, you get good work."[^lax]
 
-If all this speaks to you, [say hello](mailto:everyone@singularcollective.co). We can't wait to discuss your ambitions, your skills and your availability.
+If all this speaks to you, [say hello!](mailto:everyone@singularcollective.co) We can't wait to discuss your ambitions, your skills and your availability.
 
 
 — the Singular Collective

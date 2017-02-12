@@ -22,6 +22,10 @@ activate :blog do |blog|
   end
 end
 
+%w{ join hire }.each do |p|
+  proxy "#{p}.html", "generic_page", locals: { partial_name: p }, ignore: true
+end
+
 activate :directory_indexes
 set :relative_links, true
 

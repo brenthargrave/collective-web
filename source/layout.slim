@@ -8,7 +8,9 @@ html
     link href="data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQEAYAAABPYyMiAAAABmJLR0T///////8JWPfcAAAACXBIWXMAAABIAAAASABGyWs+AAAAF0lEQVRIx2NgGAWjYBSMglEwCkbBSAcACBAAAeaR9cIAAAAASUVORK5CYII=" rel="icon" type="image/x-icon"
     // TODO: prevent GOOG from indexing until site designed
     meta name="robots" content="noindex,nofollow"
-
+    // TODO: prevent caching until site designed
+    // src: http://stackoverflow.com/a/1341133
+    meta http-equiv="cache-control" content="no-cache"
     // TODO: reference original posts
     /link rel="canonical" href="http://example.com/blog"
 
@@ -19,7 +21,6 @@ html
       - else
         = site_title
     = stylesheet_inline_tag 'style'
-    = stylesheet_inline_tag 'overrides'
     = javascript_inline_tag 'main'
     // TODO: verify works
     /= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed"
@@ -33,6 +34,7 @@ html
             = data.meta.collective_name
       = yield
 
+      = partial :footer
       // TODO: restore GA
       /= javascript_inline_tag 'google_analytics'
 

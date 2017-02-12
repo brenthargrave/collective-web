@@ -1,9 +1,0 @@
-.postbody ol li {
-  list-style-type: decimal;
-  list-style-position: inside;
-}
-
-hr {
-  clear: both;
-  visibility: hidden;
-}

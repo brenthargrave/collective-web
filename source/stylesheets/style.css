@@ -1,7 +1,7 @@
 /*=========================================
 Reset
 =========================================== */
-html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{border:0;font-size:100%;font:inherit;vertical-align:baseline;margin:0;padding:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:none}table{border-collapse:collapse;border-spacing:0}
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,sub,tt,var,b,u,i,center,dl,dt,dd,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{border:0;font-size:100%;font:inherit;vertical-align:baseline;margin:0;padding:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:none}table{border-collapse:collapse;border-spacing:0}
 *, *:before, *:after { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
 .group:before,
 .group:after { content: ""; display: table;}
@@ -45,7 +45,13 @@ General Spacing
 margin-bottom: 20px;
 }
 
-.postbody li	{ list-style-type:disc; list-style-position:outside; }
+/*.postbody li	{*/
+  /*list-style-type:disc;*/
+  /*list-style-position:outside;*/
+/*}*/
+
+ul#post-list, ul#psot-list li { margin:0; padding:0; }
+
 
 /*=========================================
 Base
@@ -100,8 +106,8 @@ a,
 	transition: all 0.15s ease;
 }
 
-ul 	{ margin:0; padding:0; }
-li	{ list-style-type:circle; list-style-position:inside; }
+/*ul 	{ margin:0; padding:0; }*/
+/*li	{ list-style-type:circle; list-style-position:inside; }*/
 
 /* Line Height */
 .postbody, p { line-height:1.7; }
@@ -485,10 +491,24 @@ h7 { max-width: 80%; }
 h7 { max-width: 100%; }
 }
 
-.footnotes ol li { list-style-type: decimal; list-style-position: inside; }
+/*.footnotes ol li { list-style-type: decimal; list-style-position: inside; }*/
+.footnotes ol {
+  margin:0;
+  padding:0;
+}
+.footnotes {
+  font-size: 13px;
+}
 .footnotes {
   padding-top: 20px;
-  border-top: 1px solid #eee;
+  /*border-top: 1px solid #eee;*/
 }
 header h3 { font-weight: bold; }
 
+/*hr {*/
+  /*clear: both;*/
+  /*visibility: hidden;*/
+/*}*/
+
+
+.generic ul { line-height:1.7; }
