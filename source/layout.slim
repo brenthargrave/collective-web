@@ -22,8 +22,7 @@ html
         = site_title
     = stylesheet_inline_tag 'style'
     = javascript_inline_tag 'main'
-    // TODO: verify works
-    /= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed"
+    = feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed"
 
   body
     section#wrapper

@@ -22,10 +22,6 @@ activate :blog do |blog|
   end
 end
 
-%w{ join hire }.each do |p|
-  proxy "#{p}.html", "generic_page", locals: { partial_name: p }, ignore: true
-end
-
 activate :directory_indexes
 set :relative_links, true
 
@@ -46,7 +42,22 @@ helpers do
       with_year date
     end
   end
+  def collective_name
+    "Singular Collective"
+  end
+  def site_domain
+    "singularcollective.co"
+  end
+  def site_url
+    "https://#{site_domain}"
+  end
 end
+
+%w{ join hire }.each do |p|
+  proxy "#{p}.html", "generic_page", locals: { partial_name: p }, ignore: true
+end
+page "posts.xml", layout: false
+
 
 activate :deploy do |deploy|
   deploy.deploy_method = :git
