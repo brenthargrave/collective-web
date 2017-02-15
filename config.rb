@@ -17,10 +17,11 @@ activate :blog do |blog|
   end
   # NOTE: engine bakes date into permalink by default; prefer title only
   ':title'.tap do |format|
-    blog.sources = format
+    blog.sources = "/sources/#{format}"
     blog.permalink = format
   end
 end
+page "posts/feed.xml", layout: false
 
 activate :directory_indexes
 set :relative_links, true
@@ -56,7 +57,6 @@ end
 %w{ join hire }.each do |p|
   proxy "#{p}.html", "generic_page", locals: { partial_name: p }, ignore: true
 end
-page "posts.xml", layout: false
 
 
 activate :deploy do |deploy|
