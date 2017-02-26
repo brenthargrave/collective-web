@@ -21,7 +21,7 @@ To kick off a conversation, send a note to [everyone@singularcollective.co](mail
 ***
 ### Our Work
 
-**[New York Sports Clubs (NYSC)](newyorksportsclubs.com)**		
+**[New York Sports Clubs (NYSC)](https://newyorksportsclubs.com)**		
 Hired by [Kettle](https://kettlenyc.com) to work alongside their product, design and server engineering teams to build [the new NYSC iOS app](https://itunes.apple.com/us/app/sportsclubs-nysc-bsc-psc-wsc/id1120257245), a (small) part of Kettle's extensive brand work for the clubs. 	
 Read their [full case study](https://kettlenyc.com/case-studies/nysc)!
 
