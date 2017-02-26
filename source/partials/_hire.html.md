@@ -13,10 +13,12 @@ To kick off a conversation, send a note to [everyone@singularcollective.co](mail
 ***
 ### Core Team
 
-[Brent Hargrave](https://brent.is)
+[Brent Hargrave](https://brent.is)		
+Full stack engineer (iOS, server APIs).
 
-- Full stack engineer (iOS, server APIs)		
-- Mission: tech that gets people conversing more in person, less into their "black mirrors."
+[Meng He](http://www.mynameismeng.com)		
+Product design and strategy (mobile & desktop), identity brand design, UX/UI, wireframing, visual design, user flows.
+
 
 ***
 ### Our Work
