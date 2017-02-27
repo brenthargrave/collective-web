@@ -19,6 +19,8 @@ Full stack engineer (iOS, server APIs).
 [Meng He](http://www.mynameismeng.com)		
 Product design and strategy (mobile & desktop), identity brand design, UX/UI, wireframing, visual design, user flows.
 
+[Brian Pelayo](http://bpelayo.com)	
+UX/UI designer helping craft products through research, prototyping, and visual design.
 
 ***
 ### Our Work
