@@ -11,8 +11,9 @@ html
     // TODO: prevent caching until site designed
     // src: http://stackoverflow.com/a/1341133
     meta http-equiv="cache-control" content="no-cache"
-    // TODO: reference original posts
-    /link rel="canonical" href="http://example.com/blog"
+    // link to canonical URL, if included in frontmatter by the author
+    - if current_article
+      link rel="canonical" href= current_article.data.canonical
 
     - site_title = data.meta.collective_name
     title

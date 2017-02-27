@@ -1,7 +1,7 @@
 ---
 title: Why do you freelance?
-date: 2017-01-30
-canonical_url:
+date: 2017-02-27
+canonical: https://brent.is/writing/why-freelance
 author:
   name: Brent Hargrave
   homepage: https://brent.is
