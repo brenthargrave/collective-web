@@ -12,7 +12,7 @@ It affords you *time*.
 Time to pursue your own mission.  
 Time, and the *integrity* to pursue that mission instead of committing years to someone else's.
 
-If you freelance independently, though, you're struggling to advance your cause. Ambitious projects grow on momentum, built atop *consistent* effort. Yet consistency is impossible when navigating the "feast or famine" of solo freelance work. Time that opens up between engagements is wasted if you put everything on hold when the next engagement begins.
+If you freelance alone, though, you're struggling to advance your cause. Ambitious projects grow on momentum, built atop *consistent* effort. Yet consistency is impossible when navigating the "feast or famine" of solo freelance work. Time that opens up between engagements is wasted if you put everything on hold when the next engagement begins.
 
 The solution is simple, right? *Distribute the work*. So you start asking your talented friends to help out. But this also fails: you don't always know their availability, and you certainly can't guarantee it.	
 Consistency still eludes you.
