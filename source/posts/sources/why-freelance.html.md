@@ -34,8 +34,8 @@ Our plan, in a nutshell:
 If all this speaks to you, [say hello!](mailto:everyone@singularcollective.co) We can't wait to discuss your ambitions, your skills and your availability.
 
 
-— the Singular Collective
+— [Singular Collective](https://singularcollective.co)
 
 [^us]: Most of us have been through startup wringer at least once. And we use the broad term "creative" deliberately: we want members with skills of *any* stripe applicable to our work.
 
-[^lax]: [The Making of Teehan+Lax](http://www.teehanlax.com/story/teehan-lax)
+[^lax]: [The Making of Teehan+Lax](http://web.archive.org/web/20161221104240id_/http://www.teehanlax.com/story/teehan-lax)
