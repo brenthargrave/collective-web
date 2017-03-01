@@ -11,16 +11,22 @@ To kick off a conversation, send a note to [everyone@singularcollective.co](mail
 (Not to worry, just one of us will reply, not all of us at once!)
 
 ***
-### Core Team
+### "In the arena"
+#### *Our core team.*
 
-[Brent Hargrave](https://brent.is)		
+[Brent Hargrave](https://brent.is)	
 Full stack engineer (iOS, server APIs).
 
-[Meng He](http://www.mynameismeng.com)		
+[Meng He](http://www.mynameismeng.com)	
 Product design and strategy (mobile & desktop), identity brand design, UX/UI, wireframing, visual design, user flows.
 
 [Brian Pelayo](http://bpelayo.com)	
 UX/UI designer helping craft products through research, prototyping, and visual design.
+
+### "On deck"
+#### *Contributing part-time, so we're there for them in the future.*
+
+[Andrew Cornett](http://andrewcornett.com)	
 
 ***
 ### Our Work
