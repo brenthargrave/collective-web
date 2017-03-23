@@ -17,6 +17,9 @@ To kick off a conversation, send a note to [everyone@singularcollective.co](mail
 [Brent Hargrave](https://brent.is)	
 Full stack engineer (iOS, server APIs).
 
+[Ulysses Popple](https://ulyssesp.com)	
+Android/Web/Interactive developer, creating innovative experiences through code.
+
 [Meng He](http://www.mynameismeng.com)	
 Product design and strategy (mobile & desktop), identity brand design, UX/UI, wireframing, visual design, user flows.
 
