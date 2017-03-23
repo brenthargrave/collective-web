@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Singular Collective</title>
+  <author>
+    <name>Singular Collective</name>
+  </author>
+  <id>https://singularcollective.co/posts</id>
+  <link href="https://singularcollective.co/posts"/>
+  <link href="https://singularcollective.co/posts/feed.xml" rel="self"/>
+  <updated>2017-01-30T00:00:00-05:00</updated>
+  <entry>
+    <title>Why do you freelance?</title>
+    <link rel="alternate" href="https://singularcollective.co/posts/why-freelance/"/>
+    <id>https://singularcollective.co/posts/why-freelance/</id>
+    <published>2017-01-30T00:00:00-05:00</published>
+    <updated>2017-03-23T17:10:17-04:00</updated>
+    <author>
+      <name>Brent Hargrave</name>
+      <uri>https://brent.is</uri>
+    </author>
+    <content type="html">&lt;p&gt;It affords you &lt;em&gt;time&lt;/em&gt;.&lt;br&gt;
+Time to pursue your own mission.&lt;br&gt;
+Time, and the &lt;em&gt;integrity&lt;/em&gt; to pursue that mission instead of committing years to someone else&amp;#39;s.&lt;/p&gt;
+
+&lt;p&gt;If you freelance alone, though, you&amp;#39;re struggling to advance your cause. Ambitious projects grow on momentum, built atop &lt;em&gt;consistent&lt;/em&gt; effort. Yet consistency is impossible when navigating the &amp;quot;feast or famine&amp;quot; of solo freelance work. Time that opens up between engagements is wasted if you put everything on hold when the next engagement begins.&lt;/p&gt;
+
+&lt;p&gt;The solution is simple, right? &lt;em&gt;Distribute the work&lt;/em&gt;. So you start asking your talented friends to help out. But this also fails: you don&amp;#39;t always know their availability, and you certainly can&amp;#39;t guarantee it.&lt;br&gt;
+Consistency still eludes you.&lt;/p&gt;
+
+&lt;p&gt;At this point, you could do as so many have done before: hire people to guarantee their time. But you guarantee their salaries in exchange, and full-timers expect a career path. Congrats, you&amp;#39;ve just started an agency!&lt;/p&gt;
+
+&lt;p&gt;But was that your ambition? To run an agency?&lt;/p&gt;
+
+&lt;p&gt;It&amp;#39;s not ours. And if it&amp;#39;s not yours either, come work with us. We&amp;#39;re trying something different.&lt;/p&gt;
+
+&lt;p&gt;We&amp;#39;re a small group of creatives designing an unusual organization, one that retains the desirable aspects of the &amp;quot;agency model&amp;quot; (a respected shared brand, inspiring colleagues, a full pipeline of attractive projects) and jettisons the rest (forfeiting control over your time, work environment, and project choice to secure a salary).&lt;/p&gt;
+
+&lt;p&gt;Our plan, in a nutshell:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Collaborate on shared practices and tools that, over time, will stabilize our freelance work. Lean on that stability to pursue our respective goals more effectively.&lt;/li&gt;
+&lt;li&gt;In helping one another, attract a deeper bench of like-minded colleagues to work with. As the team is excellent, so is the work: mission-focused creatives do great work because, &lt;em&gt;by definition&lt;/em&gt;, we care so deeply about results.&lt;sup id="fnref1"&gt;&lt;a href="#fn1" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;The work attracts more, and more attractive, client engagements. Jon Lax put it best: &amp;quot;There is no magic to this business. If you do good work, you get good work.&amp;quot;&lt;sup id="fnref2"&gt;&lt;a href="#fn2" rel="footnote"&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;If all this speaks to you, &lt;a href="mailto:everyone@singularcollective.co"&gt;say hello!&lt;/a&gt; We can&amp;#39;t wait to discuss your ambitions, your skills and your availability.&lt;/p&gt;
+
+&lt;p&gt;— &lt;a href="https://singularcollective.co"&gt;Singular Collective&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class="footnotes"&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+
+&lt;li id="fn1"&gt;
+&lt;p&gt;Most of us have been through startup wringer at least once. And we use the broad term &amp;quot;creative&amp;quot; deliberately: we want members with skills of &lt;em&gt;any&lt;/em&gt; stripe applicable to our work.&amp;nbsp;&lt;a href="#fnref1" rev="footnote"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li id="fn2"&gt;
+&lt;p&gt;&lt;a href="http://web.archive.org/web/20161221104240id_/http://www.teehanlax.com/story/teehan-lax"&gt;The Making of Teehan+Lax&lt;/a&gt;&amp;nbsp;&lt;a href="#fnref2" rev="footnote"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;/ol&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>
