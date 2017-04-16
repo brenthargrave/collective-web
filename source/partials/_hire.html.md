@@ -14,17 +14,20 @@ To kick off a conversation, send a note to [everyone@singularcollective.co](mail
 ### "In the arena"
 #### *Our core team.*
 
+[Ajay Chainani](http://www.ajayjapan.com)   
+A full-stack software engineer with deep expertise in iOS development and extensive startup experience.
+
 [Brent Hargrave](https://brent.is)	
 Full stack engineer (iOS, server APIs).
-
-[Ulysses Popple](https://ulyssesp.com)	
-Android/Web/Interactive developer, creating innovative experiences through code.
 
 [Meng He](http://www.mynameismeng.com)	
 Product design and strategy (mobile & desktop), identity brand design, UX/UI, wireframing, visual design, user flows.
 
 [Brian Pelayo](http://bpelayo.com)	
 UX/UI designer helping craft products through research, prototyping, and visual design.
+
+[Ulysses Popple](https://ulyssesp.com)	
+Android/Web/Interactive developer, creating innovative experiences through code.
 
 ### "On deck"
 #### *Contributing part-time, so we're there for them in the future.*
